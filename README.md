@@ -43,6 +43,6 @@
 ### 🔨 Build the Library
 
 ```bash
-git clone https://github.com/KGalstyan/Libft.git
+git clone [https://github.com/KGalstyan/Libft.git](https://github.com/KGalstyan/Libft.git)
 cd libft
 make
